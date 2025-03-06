@@ -1,0 +1,3 @@
+D:/Faculty/an 1/Data Structure/Data_structure_labs/newSortedSet/cmake-build-debug/CMakeFiles/newSortedSet.dir
+D:/Faculty/an 1/Data Structure/Data_structure_labs/newSortedSet/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Faculty/an 1/Data Structure/Data_structure_labs/newSortedSet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
